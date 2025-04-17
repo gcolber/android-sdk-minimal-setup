@@ -1,0 +1,9 @@
+
+*.iml
+.gradle/
+.local/
+.cache/
+build/
+.idea/
+*.log
+*.bak
