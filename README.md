@@ -69,7 +69,7 @@ Then install the components:
 sdkmanager "platform-tools"
 sdkmanager "build-tools;36.0.0"
 sdkmanager "platforms;android-36"
-sdkmanager "system-images;android-36;default;x86_64"
+sdkmanager "system-images;android-36;google_apis;x86_64"
 sdkmanager "emulator"
 ```
 
